@@ -1,0 +1,9 @@
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\bin\Debug\OOP_App1.exe.config
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\bin\Debug\OOP_App1.exe
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\bin\Debug\OOP_App1.pdb
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.csprojResolveAssemblyReference.cache
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.Form1.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.Properties.Resources.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.csproj.GenerateResource.Cache
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.exe
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP_App1\obj\Debug\OOP_App1.pdb

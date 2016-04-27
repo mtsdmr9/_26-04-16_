@@ -1,0 +1,10 @@
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\bin\Debug\Ctor.exe.config
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\bin\Debug\Ctor.exe
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\bin\Debug\Ctor.pdb
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.csprojResolveAssemblyReference.cache
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.Form1.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.Form2.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.Properties.Resources.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.csproj.GenerateResource.Cache
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.exe
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\Ctor\obj\Debug\Ctor.pdb

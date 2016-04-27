@@ -1,0 +1,4 @@
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP4\bin\Debug\OOP4.exe.config
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP4\obj\Debug\OOP4.Ari.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP4\obj\Debug\OOP4.Properties.Resources.resources
+C:\Users\mt\Desktop\VStudio\Odevler\_26-04-16_\OOP4\obj\Debug\OOP4.csproj.GenerateResource.Cache
